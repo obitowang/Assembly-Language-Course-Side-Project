@@ -35,3 +35,7 @@ Display Width/Height: 512
 Base Address: 0x10080000 (Global Data)
 
 Keyboard and Display MMIO Simulator: Must be connected to the MIPS kernel to capture real-time input.
+
+### 遊戲執行截圖
+![C Version Result](screenshots/c_runpic.png)
+![MIPS Version Result](screenshots/asm_runpic.png)
